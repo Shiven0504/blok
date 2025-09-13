@@ -66,11 +66,13 @@
         
 		},
 		"weather-ui": {
-			"inputs": {
-				"title": "Weather UI",
-				"file_path": "app/weather.jsx"
-			}
-		},
+            "inputs": {
+                "title": "Weather UI",
+                "file_path": "app/weather.jsx",
+                "description": "User interface for displaying weather information.",
+                "theme": "light"
+            }
+        },
 		"method-not-allowed": {
 			"inputs": {
 				"message": "Invalid HTTP method"
